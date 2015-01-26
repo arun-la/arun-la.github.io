@@ -8,6 +8,9 @@
 .bg-crimson {
   background-color: #d20202;
 }
+.bg-dark {
+  background-color: #323232;
+}
 /* foreground colors */
 .fg-cobalt {
   color: #0094ff;
