@@ -1,3 +1,15 @@
+/* background colors */
 .bg-cobalt {
   background-color: #0094ff;
+}
+.bg-ghostwhite {
+  background-color: #f8f8ff;
+}
+/* foreground colors */
+.fg-cobalt {
+  color: #0094ff;
+}
+/* typography */
+blockquote {
+  display: block;
 }
