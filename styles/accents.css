@@ -5,9 +5,15 @@
 .bg-ghostwhite {
   background-color: #f8f8ff;
 }
+.bg-crimson {
+  background-color: #d20202;
+}
 /* foreground colors */
 .fg-cobalt {
   color: #0094ff;
+}
+.fg-crimson {
+  color: #d20202;
 }
 /* typography */
 blockquote {
