@@ -12,4 +12,5 @@
 /* typography */
 blockquote {
   display: block;
+  font-size: 200%;
 }
